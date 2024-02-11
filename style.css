@@ -100,7 +100,7 @@ body{
 .front-end p {
     margin: 5px 0;
     font-size: 1em;
-    text-align: justify;
+    text-align: left;
     padding: 25px;
 }
 
@@ -163,7 +163,7 @@ body{
 .back-end p {
     margin: 5px 0;
     font-size: 1em;
-    text-align: justify;
+    text-align: left;
     padding: 25px;
 }
 
